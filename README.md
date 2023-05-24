@@ -12,7 +12,7 @@ These are:
 
 * Vittorio: An artillery duel like game
 
-* Mostris: A variant of the of another famous game that ends with ...tris
+* Mostris: A variant of another famous game that ends with ...tris
 
 * Uberswap: A match three game
 
