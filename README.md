@@ -16,3 +16,5 @@ These are:
 
 * Uberswap: A match three game
 
+* Moscription: A deck building card game
+
